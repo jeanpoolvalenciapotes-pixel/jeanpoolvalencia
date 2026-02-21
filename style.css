@@ -1,0 +1,30 @@
+
+body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    flex-direction: column;
+    width: 400px;
+    background-color:white
+}
+
+h1{
+    margin-bottom: 300px;
+}
+
+input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 5vh;
+}
